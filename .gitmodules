@@ -1,0 +1,3 @@
+[submodule "Careeon"]
+	path = Careeon
+	url = https://github.com/robertlogi/careeon.git
