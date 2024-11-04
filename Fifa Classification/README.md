@@ -1,6 +1,6 @@
 # FIFA Player Classification Analysis
 
-This project provides an analysis and classification of FIFA player data, focusing on player attributes across different positions. The goal is to categorize player positions and compare their performance across various skill areas like shooting, passing, defending, and more. 
+This project provides an analysis and classification of FIFA player data, focusing on player attributes across different positions. The goal is to categorize player positions and compare their performance across various skill areas like shooting, passing, defending, and more.  
 
 ## Table of Contents
 - [FIFA Player Classification Analysis](#fifa-player-classification-analysis)
