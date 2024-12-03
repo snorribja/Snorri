@@ -10,7 +10,10 @@ This project explores using reinforcement learning (Q-Learning and Deep Q-Learni
 - Deep Q-Learning using neural networks for approximating Q-values in a continuous state space.
 - Comparison of performance and stability between Q-Learning and DQN in the Flappy Bird environment.
 
-### 2. Careeon (Submodule)
+### 3. FIFA Classification Analysis
+This project provides an analysis and classification of FIFA player data, focusing on player attributes across different positions. The goal is to categorize player positions and compare their performance across various skill areas like shooting, passing, defending, and more.
+
+### 3. Careeon (Submodule)
 The **Careeon** project is included as a submodule within this repository. It is a separate Git repository that can be tracked independently. Please go ahead and watch the video in the reop. If you clone this repository, make sure to initialize the submodules to get the latest content of **Careeon**:
 ```bash
 git submodule update --init --recursive
@@ -30,6 +33,7 @@ If you have already cloned the repository without the --recurse-submodules flag,
 ```bash
 git submodule update --init --recursive
 ```
+
 
 
 
