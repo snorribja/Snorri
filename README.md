@@ -10,7 +10,7 @@ This project explores using reinforcement learning (Q-Learning and Deep Q-Learni
 - Deep Q-Learning using neural networks for approximating Q-values in a continuous state space.
 - Comparison of performance and stability between Q-Learning and DQN in the Flappy Bird environment.
 
-### 3. FIFA Classification Analysis
+### 2. FIFA Classification Analysis
 This project provides an analysis and classification of FIFA player data, focusing on player attributes across different positions. The goal is to categorize player positions and compare their performance across various skill areas like shooting, passing, defending, and more.
 
 ### 3. Careeon (Submodule)
