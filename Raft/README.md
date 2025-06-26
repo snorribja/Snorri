@@ -12,19 +12,6 @@ The project includes the following files:
 - `Distributed Consensus - Questions.pdf`: A detailed explanation and justification of how the Raft protocol was implemented.
 - `README.md`: This documentation file.
 
-Raft/
-│
-├── client/
-│ └── raftclient.go
-├── server/
-│ ├── raftserver.go
-│ └── servers.txt
-│
-├── README.md
-├── Distributed Consensus - Questions.pdf
-├── go.sum
-└── go.mod
-
 ## Running the System
 
 To run a server, use the following command:
