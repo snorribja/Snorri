@@ -19,8 +19,12 @@ This project implements a distributed consensus algorithm based on Raft, enablin
 - Log replication and commitment through quorum-based agreement.
 - Simulation of fault tolerance via suspend/resume commands and in-memory state handling.
 
-### 4. Careeon (Submodule)
-The **Careeon** project is included as a submodule within this repository. It is a separate Git repository that can be tracked independently. Please go ahead and watch the video in the reop. If you clone this repository, make sure to initialize the submodules to get the latest content of **Careeon**:
+### 4. Careeon (Submodule)  
+The **Careeon** project is included in this repository as a Git submodule. You can visit the live website here (can take 20 seconds to start):  
+[https://careeon.onrender.com](https://careeon.onrender.com)
+Careeon is maintained in a separate repository, which allows it to be tracked independently. A demo video is available in the Careeon repository—feel free to check it out.
+If you clone this repository, make sure to initialize the submodules to pull in the latest version of **Careeon**:
+
 ```bash
 git submodule update --init --recursive
 ```
